@@ -1,0 +1,7 @@
+node_modules
+.next
+.env.local
+.env*.local
+service_account.json
+data/*.csv
+data/pal_account_docs.json
